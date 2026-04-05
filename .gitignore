@@ -1,0 +1,9 @@
+.env
+data/raw/
+data/processed/
+data/voda.db
+models/trained/*.joblib
+__pycache__/
+*.pyc
+.venv/
+venv/
